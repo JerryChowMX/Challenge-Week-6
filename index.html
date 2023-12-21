@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Weather Dashboard</title>
+  <link rel="stylesheet" href="./Assets/styles.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <h1>Weather Dashboard</h1>
+  </header>
+
+  <section id="searchSection">
+    <h2>Search for a City:</h2>
+    <input type="text" id="cityInput" placeholder="Enter city name">
+    <button id="searchButton">Search</button>
+    <div id="searchHistory">
+      <!-- Dynamically add buttons for search history here -->
+    </div>
+  </section>
+
+  <section id="currentWeatherSection">
+    <h2>Current Weather</h2>
+    <div id="currentWeatherDetails">
+      <!-- Current weather details will be dynamically updated here -->
+    </div>
+  </section>
+
+  <section id="forecastSection">
+    <h2>5-Day Forecast</h2>
+    <div id="forecastGrid">
+      <!-- 5-day forecast cards will be dynamically updated here -->
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
