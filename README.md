@@ -81,7 +81,7 @@ This project is open source and available under the [MIT License](LICENSE.md).
 ## Acknowledgements
 
 - [OpenWeatherMap API](https://openweathermap.org/api)
-- Fonts provided by [Google Fonts](https://fontawesome.com)
+- Fonts provided by [Google Fonts](https://fonts.google.com/)
 
 ## Live URL
 
