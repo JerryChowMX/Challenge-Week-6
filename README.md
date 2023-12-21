@@ -86,4 +86,4 @@ This project is open source and available under the [MIT License](LICENSE.md).
 ## Live URL
 
 ## GitHub Link
-- https://github.com/JerryChowMX/Challenge-Week-6 (https://github.com/JerryChowMX/Challenge-Week-6)
+- https://github.com/JerryChowMX/Challenge-Week-6
