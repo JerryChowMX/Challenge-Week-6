@@ -84,6 +84,7 @@ This project is open source and available under the [MIT License](LICENSE.md).
 - Fonts provided by [Google Fonts](https://fonts.google.com/)
 
 ## Live URL
+- https://jerrychowmx.github.io/Challenge-Week-6/ 
 
 ## GitHub Link
 - https://github.com/JerryChowMX/Challenge-Week-6
